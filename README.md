@@ -7,7 +7,7 @@ Hi there! 👋 I’m **Mercy**, a **software engineering trainee at Semicolon**,
 ## 📌 What I'm Currently Doing  
 - 🖥️ Training as a **Software Engineer at Semicolon**  
 - 🌱 Learning **Java, Python, JavaScript, HTML, CSS, and SQL**  
-- 🔍 Exploring **Machine Learning**  and revising **Mathematics for ML (Linear Algebra, Probability, Stats)**  
+- 🔍 Exploring **Layered architecture**, **OOP Concepts**, **Design Patterns**, and **Machine Learning**  and revising **Mathematics for ML (Linear Algebra, Probability, Stats)**  
 - 🚀 Building **real-world projects that makes a difference & preparing for internships**  
 
 ---
