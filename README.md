@@ -13,7 +13,7 @@ Hi there! 👋 I’m **Mercy**, a **software engineering trainee at Semicolon**,
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python, JavaScript, MySQL, HTML, CSS  
+- **Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
 - **Databases:** MySQL, PostgreSQL  
 - **Frameworks & Tools:** Flask, Spring Boot (Learning), React  
 - **Version Control:** Git, GitHub  
