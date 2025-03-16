@@ -34,7 +34,7 @@ Hi there! 👋 I’m **Mercy**, a **software engineering trainee at Semicolon**,
 
 ## 📫 Connect with Me  
 - **GitHub:** [github.com/mercybabayemi](https://github.com/mercybabayemi)  
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/mercy-babayemi-249a541a0)  
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/mercy-babayemi-249a541a0)  
 - **Portfolio (Coming Soon! 🌱)**  
 
 <!---
