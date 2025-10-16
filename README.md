@@ -1,6 +1,6 @@
 # 🚀 Mercy Babayemi | Software Engineer
 
-Hi there! 👋 I’m **Mercy**, a **Software Engineer and Data Science Enthusiast** with hands-on experience building data-driven systems, automation pipelines, and intelligent applications that bridge software engineering AI,ML and computational linguistics.
+Hi there! 👋 I’m **Mercy**, a **Software Engineer and Data Science Enthusiast** with hands-on experience building data-driven systems, automation pipelines, and intelligent applications that bridge software engineering AI, ML and computational linguistics.
 
 I am passionate about the intersection of **Technology, Data Science, Machine Learning, Artificial Intelligence and Language**, especially how raw data can be turned into insight that can power the next generation of intelligent systems.
 
