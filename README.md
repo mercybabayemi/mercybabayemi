@@ -4,7 +4,7 @@ Hi there! 👋 I’m **Mercy**, a **Software Engineer and Data Science Enthusias
 
 I am passionate about the intersection of **Technology, Data Science, Machine Learning, Artificial Intelligence and Language**, especially how raw data can be turned into insight that can power the next generation of intelligent systems.
 
-My journey has spanned **software engineering, web development, data analysis, natural language processing (NLP), and computational linguistics**, with a growing focus on data pipelines, model development, and AI infrastructure. I'm deeply interested in exploring projects that combine **engineering, data science, ML and AI, and language technologies**.  
+My journey has spanned **software engineering, web development, data analysis and science, natural language processing (NLP), and computational linguistics**, with a growing focus on data pipelines, model development, and AI infrastructure. I'm deeply interested in exploring projects that combine **engineering, data science, ML and AI, and language technologies**.  
 
 ---
 ## 🧩 My Technical Experience
