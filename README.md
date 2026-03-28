@@ -1,51 +1,78 @@
-# 🚀 Mercy Babayemi | Software Engineer
+# 🚀 Mercy Babayemi | Software Engineer • Data Scientist • ML Enthusiast
 
-Hi there! 👋 I’m **Mercy**, a **Software Engineer and Data Scienctist** with hands-on experience building data-driven systems, automation pipelines, and intelligent applications that bridge Software Engineering, Data Science, AI, ML and computational linguistics.
+Hi there! 👋 I’m Mercy, a Software Engineer and Data Scientist focused on building data-driven systems, intelligent applications, and scalable software solutions across AI, ML, and language technologies.
 
-I am passionate about the intersection of **Technology, Data Science, Machine Learning, Artificial Intelligence and Language**, especially how raw data can be turned into insight that can power the next generation of intelligent systems.
-
-My journey has spanned **software engineering, web development, data analysis and science, natural language processing (NLP), and computational linguistics**, with a growing focus on data pipelines, model development, and AI infrastructure. I'm deeply interested in exploring projects that combine **engineering, data science, ML and AI, and language technologies**.  
-
----
-## 🧩 My Technical Experience
-I’ve built and contributed to projects ranging from data analytics platforms and intelligent assistants to end-to-end software solutions using modern tools across backend, frontend, and data layers. My experience includes:
-- Designing **data pipelines and APIs** for data-driven applications using **FastAPI, Flask, and Django**
-- Implementing ETL workflows and automation with **Python, BeautifulSoup, Numpy, Pandas, Scikitlearn, Matplotlib, Seaborn** for data collection and analysis
-- Writing queries with **PostgreSQL/MySQL** for structured data and **MongoDB** for unstructured data
-- Deploying applications on the **Cloud (Render, Vercel)** with **Docker containers and CI/CD pipelines (GitHub Actions)**
-- Using **Git & GitFlow** for version control and collaborative development
-- Exploring **machine learning pipelines and algorithms, LLMs, and NLP techniques** for text analysis and conversational AI
-- Leveraging **data visualization, feature engineering, and ML model evaluation** for performance insight
----
-## 📌 What I'm Currently Doing  
-- 🖥️ Trained as a **Software Engineer at Semicolon Africa**  
-- 🌱 Learnt **Java, Python, JavaScript, HTML, CSS, and SQL**  
-- 🔍 Exploring **Design Patterns**, **Machine Learning Algorithms and Engineering**  and **Mathematics for ML (Linear Algebra, Probability, Statisticss)**  
-- 🚀 Building cloud-native, containerized apps with **Docker and GitHub Actions** for CI/CD deployment
-- Developing **data science pipelines and NLP projects** that connect language, data, and intelligence
-- Building real-world projects that make a difference & preparing for **global research**,**data science and ML internships**
----
-
-## 🛠️ Tech Stack  
-- **Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Frameworks & Tools:** Jupiter Notebook, FastAPI, Flask, Django, React, Spring Boot, Pandas, NumPy, Scikit-learn, BeautifulSoup
-- **DevOps & Cloud:** Docker, GitHub Actions (CI/CD), Git Workflow, AWS, Render, Vercel
-- **Data Science & AI:** NLP, Machine Learning, LangChain, Data Engineering, Feature Engineering, Model Evaluation
-- **Version Control:** Git, GitHub  
-- **Other Interests:** Computational Linguistics, Data Ethics, AI Governance, and Data Visualization
+I am especially passionate about the intersection of **software engineering, machine learning, and computational linguistics**, and how raw data can be transformed into meaningful insights and intelligent systems.
 
 ---
 
-## 🌟 Featured Projects  
-**Check out my repository:** [My GitHub Repositories](https://github.com/mercybabayemi?tab=repositories)  
+## 🧠 About Me
+
+My experience spans software engineering, data analysis, machine learning, and natural language processing (NLP). I enjoy building end-to-end systems—from data pipelines to deployed applications—and exploring how AI can solve real-world problems.
+
+I am currently deepening my expertise in:
+- Machine Learning & Data Science
+- Data Engineering & Pipelines
+- NLP & Computational Linguistics
+- AI Systems & Model Deployment
 
 ---
 
-## 📫 Connect with Me  
-- **GitHub:** [github.com/mercybabayemi](https://github.com/mercybabayemi)  
+## 🧩 What I’ve Worked On
+
+- Built data pipelines and APIs using **FastAPI, Flask, and Django**
+- Designed ETL workflows and automation scripts using **Python (Pandas, NumPy, Scikit-learn)**
+- Worked with relational and NoSQL databases (**PostgreSQL, MySQL, MongoDB**)
+- Developed and deployed applications using **Docker, GitHub Actions, Render, and Vercel**
+- Applied ML concepts including feature engineering, model evaluation, and basic NLP techniques
+- Used Git & GitHub for version control and collaborative development
+
+---
+
+## 📌 Current Focus
+
+- Software Engineering training at **Semicolon Africa**
+- Strengthening fundamentals in **data structures, algorithms, and system design**
+- Studying **machine learning theory (probability, statistics, linear algebra)**
+- Building real-world ML and data science projects
+- Exploring internships in **AI, Data Science, and Machine Learning**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
+**Frameworks:** FastAPI, Flask, Django, React, Spring Boot  
+**Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Render, Vercel  
+**Tools:** Jupyter Notebook, Git, GitHub  
+**Interests:** NLP, Data Engineering, AI Ethics, Computational Linguistics  
+
+---
+
+## 🌟 Projects
+
+Some of my work includes:
+- Data analytics platforms
+- Intelligent assistants
+- Machine learning prototypes
+- Automation and ETL pipelines
+- Full-stack web applications
+
+👉 More projects available on my repositories: [github.com/mercybabayemi](https://github.com/mercybabayemi)
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: github.com/mercybabayemi  
 - **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/mercy-babayemi-249a541a0)
-- **Portfolio:**  [My portfolio](https://mercybabayemiportfolio.vercel.app/)
+- **Portfolio:**  [My portfolio](https://mercybabayemiportfolio.vercel.app/) 
+
+---
+
+> “Turning data into intelligence, and intelligence into impact.”
 
 <!---
 mercybabayemi/mercybabayemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
