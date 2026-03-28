@@ -31,7 +31,6 @@ I am currently deepening my expertise in:
 
 ## 📌 Current Focus
 
-- Software Engineering training at **Semicolon Africa**
 - Strengthening fundamentals in **data structures, algorithms, and system design**
 - Studying **machine learning theory (probability, statistics, linear algebra)**
 - Building real-world ML and data science projects
