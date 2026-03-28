@@ -1,4 +1,4 @@
-# 🚀 Mercy Babayemi | Software Engineer • Data Scientist • ML Enthusiast
+# 🚀 Mercy Babayemi | Software Engineer • Data Scientist • ML Engineer
 
 Hi there! 👋 I’m Mercy, a Software Engineer and Data Scientist focused on building data-driven systems, intelligent applications, and scalable software solutions across AI, ML, and language technologies.
 
