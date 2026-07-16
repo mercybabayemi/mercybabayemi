@@ -1,79 +1,186 @@
-# 🚀 Mercy Babayemi | Software Engineer • Data Scientist • ML Engineer
+<h1 align="center">Hi 👋, I'm Mercy Janet Babayemi</h1>
 
-Hi there! 👋 I’m Mercy, a Software Engineer and Data Scientist focused on building data-driven systems, intelligent applications, and scalable software solutions across AI, ML, and language technologies.
+<h3 align="center">
+Software Engineer • AI Systems Engineer • Backend Developer
+</h3>
 
-I am especially passionate about the intersection of **software engineering, machine learning, and computational linguistics**, and how raw data can be transformed into meaningful insights and intelligent systems.
-
----
-
-## 🧠 About Me
-
-My experience spans software engineering, data analysis, machine learning, and natural language processing (NLP). I enjoy building end-to-end systems—from data pipelines to deployed applications—and exploring how AI can solve real-world problems.
-
-I am currently deepening my expertise in:
-- Machine Learning & Data Science
-- Data Engineering & Pipelines
-- NLP & Computational Linguistics
-- AI Systems & Model Deployment
+<p align="center">
+Building AI-powered software, multi-agent systems, backend APIs, and data-driven products.
+</p>
 
 ---
 
-## 🧩 What I’ve Worked On
+## 👩🏽‍💻 About Me
 
-- Built data pipelines and APIs using **FastAPI, Flask, and Django**
-- Designed ETL workflows and automation scripts using **Python (Pandas, NumPy, Scikit-learn)**
-- Worked with relational and NoSQL databases (**PostgreSQL, MySQL, MongoDB**)
-- Developed and deployed applications using **Docker, GitHub Actions, Render, and Vercel**
-- Applied ML concepts including feature engineering, model evaluation, and basic NLP techniques
-- Used Git & GitHub for version control and collaborative development
+I'm a Software Engineer passionate about building intelligent software that solves real-world problems.
 
----
+My work focuses on:
 
-## 📌 Current Focus
+- 🤖 AI Systems Engineering
+- 🧠 LLM Applications
+- ⚙️ Backend Engineering
+- 📊 Data Engineering
+- 📚 NLP & Educational Technology
+- 🚀 Product Development
 
-- Strengthening fundamentals in **data structures, algorithms, and system design**
-- Studying **machine learning theory (probability, statistics, linear algebra)**
-- Building real-world ML and data science projects
-- Exploring internships in **AI, Data Science, and Machine Learning**
+Currently building:
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, JavaScript, SQL, HTML, CSS  
-**Frameworks:** FastAPI, Flask, Django, React, Spring Boot  
-**Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS, Render, Vercel  
-**Tools:** Jupyter Notebook, Git, GitHub  
-**Interests:** NLP, Data Engineering, AI Ethics, Computational Linguistics  
+- EnumVerse Multi-Agent Platform
+- Assessment Agent
+- AI Evaluation Systems
+- RAG Applications
+- Educational AI Products
 
 ---
 
-## 🌟 Projects
+## 🛠 Tech Stack
 
-Some of my work includes:
-- Data analytics platforms
-- Intelligent assistants
-- Machine learning prototypes
-- Automation and ETL pipelines
-- Full-stack web applications
+### Languages
 
-👉 More projects available on my repositories: [github.com/mercybabayemi](https://github.com/mercybabayemi)
+Python • Java • JavaScript • SQL
+
+### Backend
+
+FastAPI
+
+Spring Boot
+
+REST APIs
+
+Pydantic
+
+### AI
+
+LLMs
+
+LangGraph
+
+Prompt Engineering
+
+RAG
+
+TinyLlama
+
+Phi Models
+
+AI Evaluation
+
+### Databases
+
+PostgreSQL
+
+MongoDB
+
+### Analytics
+
+Google Analytics
+
+Microsoft Clarity
+
+Looker Studio
+
+### Tools
+
+Git
+
+GitHub
+
+Linux
+
+Docker
+
+Hugging Face
+
+Gradio
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Featured Projects
 
-- GitHub: github.com/mercybabayemi  
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/mercy-babayemi-249a541a0)
-- **Portfolio:**  [My portfolio](https://mercybabayemiportfolio.vercel.app/) 
+### 🎓 EnumVerse
+
+Multi-agent educational AI platform.
+
+Contributions:
+
+- Assessment Agent
+- Skill Agent
+- Skill Library
+- FastAPI Backend
+- AI Evaluation
 
 ---
 
-> “Turning data into intelligence, and intelligence into impact.”
+### 🌍 AfriPed AI
 
-<!---
-mercybabayemi/mercybabayemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI-powered educational content generation platform.
+
+Features:
+
+- Retrieval-Augmented Generation (RAG)
+- LangGraph
+- FastAPI
+- Hugging Face
+- TinyLlama Evaluation
+
+---
+
+### 📈 Bank Churn Prediction
+
+Machine Learning model predicting customer churn using feature engineering and classification algorithms.
+
+---
+
+### 📊 Sales Pipeline Analytics
+
+Business intelligence project using SQL, Python and data visualization.
+
+---
+
+## 📈 Current Focus
+
+- Multi-Agent AI Systems
+- LLM Engineering
+- Backend Development
+- Applied NLP
+- Production AI
+- Open Source Contributions
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced MLOps
+- Distributed AI Systems
+- Kubernetes
+- Cloud Engineering
+- LLM Infrastructure
+
+---
+
+## 🤝 Open to
+
+- Remote Software Engineering Roles
+- AI Engineering
+- Backend Engineering
+- Data Engineering
+- Open Source Collaboration
+- Research Collaboration
+
+---
+
+## 📫 Connect
+
+📧 mercybabayemi@gmail.com
+
+🌐 Portfolio
+
+https://mercy-portfolio-v2.vercel.app
+
+💼 LinkedIn
+
+https://linkedin.com/in/mercy-babayemi-249a541a0
+
+🐙 GitHub
+
+https://github.com/mercybabayemi
