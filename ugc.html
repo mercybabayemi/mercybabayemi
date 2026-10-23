@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>UGC and short-form video for brands | Mercy Babayemi</title>
+<meta name="description" content="Story-led UGC and short-form video for technology, lifestyle, travel, culture and consumer brands, by Mercy Babayemi in Lagos. See the work, the rates and send a brief.">
+<meta name="theme-color" content="#F3EBDD">
+<link rel="canonical" href="https://mercybabayemi.com/ugc">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mercy Babayemi">
+<meta property="og:title" content="Story-led content for brands | Mercy Babayemi">
+<meta property="og:description" content="UGC and short-form video for technology, lifestyle, travel, culture and consumer brands.">
+<meta property="og:url" content="https://mercybabayemi.com/ugc">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G6YBMM0VG2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G6YBMM0VG2');
+</script>
+<script>document.documentElement.className += ' js';</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="Mercy Babayemi, home">Mercy Babayemi</a>
+    <div class="nav-right">
+      <a class="nav-link" href="index.html" data-label="Back to home" data-section="nav">Home</a>
+      <a class="pill" href="#brief" data-cta data-label="Send a brief (nav)" data-section="nav">Send a brief</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <div class="wrap">
+      <p class="where rise">UGC and short-form video</p>
+      <h1 class="long rise">Story-led content for brands people want to hear from.</h1>
+      <p class="intro rise">I create short-form UGC and visual stories for technology, lifestyle, travel, culture and consumer brands. The brief tells me what to say, and the emotion tells viewers why to care.</p>
+      <div class="actions rise">
+        <a class="btn btn-primary" href="#brief" data-cta data-label="Send a brief (hero)" data-section="ugc-hero">Send a brief</a>
+        <a class="btn btn-ghost" href="#work" data-cta data-label="See the work" data-section="ugc-hero">See the work</a>
+      </div>
+    </div>
+  </div>
+
+  <section id="work" data-section-id="work">
+    <div class="wrap">
+      <p class="label">Selected work</p>
+      <h2>Clips, by category.</h2>
+      <p class="lede">Every clip is labelled as a paid collaboration, independent content or a spec concept, so you know exactly what you are watching.</p>
+      <div class="chips" id="ugc-chips" role="group" aria-label="Filter clips by category"></div>
+      <div class="reel" id="ugc-grid" aria-live="polite"></div>
+      <p class="empty" id="ugc-empty" hidden>Clips are being added. Send a brief and I will share relevant samples.</p>
+    </div>
+  </section>
+
+  <section id="testimonials" data-section-id="testimonials" hidden>
+    <div class="wrap">
+      <p class="label">Testimonials</p>
+      <h2>What clients say.</h2>
+      <div id="quotes"></div>
+    </div>
+  </section>
+
+  <section id="method" data-section-id="method">
+    <div class="wrap">
+      <p class="label">How I make it</p>
+      <h2>One brief, one emotion, one story.</h2>
+      <p class="lede">I do not force a product into a story. I find the human emotion inside your brief, build the story around it, and let the product be the solution.</p>
+      <ol class="steps">
+        <li><strong>Emotion.</strong> What should the viewer feel before they want the product? One video carries one dominant emotion.</li>
+        <li><strong>Story.</strong> A relatable situation that naturally creates that feeling, with a hook about the person, not the product.</li>
+        <li><strong>Product and proof.</strong> The product arrives as the solution. Every claim in your brief is shown, not just said.</li>
+        <li><strong>Recommendation.</strong> The story closes on the change and a natural recommendation, then your call to action.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="rates" data-section-id="rates">
+    <div class="wrap">
+      <p class="label">Packages</p>
+      <h2>Clear deliverables, clear prices.</h2>
+      <ul class="rows" id="packages"></ul>
+
+      <h3 class="sub">Add-ons</h3>
+      <ul class="rows" id="addons"></ul>
+
+      <h3 class="sub">Not included unless agreed</h3>
+      <ul class="plain" id="not-included"></ul>
+
+      <p class="note" id="payment"></p>
+      <p class="note" id="international"></p>
+    </div>
+  </section>
+
+  <section id="how" data-section-id="how">
+    <div class="wrap">
+      <p class="label">How it works</p>
+      <h2>From first message to final file.</h2>
+      <ol class="steps" id="steps"></ol>
+    </div>
+  </section>
+
+  <section id="brief" data-section-id="brief">
+    <div class="wrap">
+      <p class="label">Send a brief</p>
+      <h2>Tell me what you sell and how it should feel.</h2>
+      <p class="lede">Fill this in and your email app opens with the brief written out and addressed to me. Nothing is sent until you press send.</p>
+
+      <form id="brief-form">
+        <div class="field"><label for="name">Your name</label><input id="name" autocomplete="name" required></div>
+        <div class="field"><label for="brand">Brand or company</label><input id="brand" autocomplete="organization" required></div>
+        <div class="field"><label for="product">Product or service</label><input id="product" required></div>
+        <div class="field"><label for="goal">Campaign goal</label><textarea id="goal" required placeholder="For example: launch a new blender and get people to shop on our site"></textarea></div>
+        <div class="field"><label for="audience">Audience</label><input id="audience" required placeholder="Who is this for?"></div>
+
+        <div class="field emotion-box">
+          <label for="emotion">The emotion this video should sell</label>
+          <select id="emotion" required>
+            <option value="" disabled selected>Choose one dominant emotion</option>
+          </select>
+          <p class="hint" id="emotion-hint" aria-live="polite">One video, one dominant emotion. Pick the feeling you want viewers to have before they want the product.</p>
+        </div>
+        <div class="field"><label for="why">Why that emotion?</label><input id="why" placeholder="What should viewers feel, and what does it change for them?"></div>
+
+        <div class="field"><label for="deliverables">Deliverables</label><select id="deliverables" required></select></div>
+        <div class="field"><label for="usage">Where will it run?</label>
+          <select id="usage" required>
+            <option>Organic social media only</option>
+            <option>Paid advertising</option>
+            <option>Both organic and paid</option>
+            <option>Not sure yet</option>
+          </select>
+        </div>
+        <div class="field"><label for="deadline">Deadline</label><input id="deadline" placeholder="For example: 20 November 2026"></div>
+        <div class="field"><label for="must">Must say or show</label><textarea id="must" placeholder="Required phrases, features, claims, call to action"></textarea></div>
+
+        <div class="actions">
+          <button class="btn btn-primary" type="submit" data-cta-btn>Open email with my brief</button>
+          <button class="btn btn-ghost" type="button" id="copy-brief">Copy the brief instead</button>
+        </div>
+        <p class="note" id="copy-status" aria-live="polite"></p>
+      </form>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Mercy Babayemi, Lagos. <a href="index.html">Back to the home page</a>. Email: <a data-email href="mailto:mercybabayemi@gmail.com">mercybabayemi@gmail.com</a></p>
+  </div>
+</footer>
+
+<script src="site-data.js"></script>
+<script src="site.js"></script>
+<script>
+  fillEmailLinks();
+
+  /* ---------- Portfolio with filter chips ---------- */
+  (function(){
+    var chips = document.getElementById('ugc-chips');
+    var grid = document.getElementById('ugc-grid');
+    var empty = document.getElementById('ugc-empty');
+    if (!UGC_WORK.length) { chips.hidden = true; grid.hidden = true; empty.hidden = false; return; }
+    var present = {}; UGC_WORK.forEach(function(w){ present[w.category] = 1; });
+    UGC_CATEGORIES.forEach(function(c){
+      if (c[0] !== 'all' && !present[c[0]]) return;
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'chip'; b.textContent = c[1];
+      b.setAttribute('aria-pressed', c[0] === 'all' ? 'true' : 'false');
+      b.addEventListener('click', function(){
+        chips.querySelectorAll('.chip').forEach(function(x){ x.setAttribute('aria-pressed', 'false'); });
+        b.setAttribute('aria-pressed', 'true');
+        renderClips(grid, UGC_WORK.filter(function(w){ return c[0] === 'all' || w.category === c[0]; }));
+        track('ugc_filter', { category: c[0] });
+      });
+      chips.appendChild(b);
+    });
+    renderClips(grid, UGC_WORK);
+  })();
+
+  /* ---------- Testimonials ---------- */
+  (function(){
+    if (!TESTIMONIALS.length) return;
+    document.getElementById('testimonials').hidden = false;
+    var box = document.getElementById('quotes');
+    TESTIMONIALS.forEach(function(t){
+      var f = document.createElement('figure'); f.className = 'quote';
+      var q = document.createElement('blockquote'); q.textContent = t.quote;
+      var c = document.createElement('cite'); c.textContent = t.name + (t.role ? ', ' + t.role : '');
+      f.appendChild(q); f.appendChild(c); box.appendChild(f);
+    });
+  })();
+
+  /* ---------- Kit card ---------- */
+  function priceRow(item, descText){
+    var li = document.createElement('li');
+    var row = document.createElement('div'); row.className = 'row';
+    var left = document.createElement('span');
+    var t = document.createElement('span'); t.className = 'row-title'; t.textContent = item.name;
+    var d = document.createElement('span'); d.className = 'row-desc'; d.textContent = descText;
+    left.appendChild(t); left.appendChild(d);
+    var p = document.createElement('span'); p.className = 'price'; p.textContent = item.price;
+    row.appendChild(left); row.appendChild(p); li.appendChild(row); return li;
+  }
+  KIT.packages.forEach(function(p){ document.getElementById('packages').appendChild(priceRow(p, p.includes)); });
+  KIT.addons.forEach(function(a){ document.getElementById('addons').appendChild(priceRow(a, a.note)); });
+  KIT.notIncluded.forEach(function(n){ var li = document.createElement('li'); li.textContent = n; document.getElementById('not-included').appendChild(li); });
+  document.getElementById('payment').textContent = KIT.payment;
+  document.getElementById('international').textContent = KIT.international;
+  KIT.steps.forEach(function(s){ var li = document.createElement('li'); li.textContent = s; document.getElementById('steps').appendChild(li); });
+
+  /* ---------- Brief form: opens a prepared email ---------- */
+  (function(){
+    var form = document.getElementById('brief-form');
+    var emotion = document.getElementById('emotion');
+    var hint = document.getElementById('emotion-hint');
+    var deliverables = document.getElementById('deliverables');
+    var status = document.getElementById('copy-status');
+
+    EMOTIONS.forEach(function(e){ var o = document.createElement('option'); o.value = e[0]; o.textContent = e[0]; emotion.appendChild(o); });
+    DELIVERABLES.forEach(function(d){ var o = document.createElement('option'); o.textContent = d; deliverables.appendChild(o); });
+    emotion.addEventListener('change', function(){
+      EMOTIONS.forEach(function(e){ if (e[0] === emotion.value) hint.textContent = e[1]; });
+    });
+
+    function val(id){ var v = document.getElementById(id).value.trim(); return v || 'Not specified'; }
+
+    function buildBrief(){
+      var emo = emotion.value;
+      return [
+        'Dear Mercy,',
+        '',
+        'I would like to commission story-led content from you. Here is my brief.',
+        '',
+        'BRAND: ' + val('brand'),
+        'PRODUCT OR SERVICE: ' + val('product'),
+        'CAMPAIGN GOAL: ' + val('goal'),
+        'AUDIENCE: ' + val('audience'),
+        '',
+        'THE EMOTION THIS VIDEO SHOULD SELL: ' + emo,
+        'WHY THAT EMOTION: ' + val('why'),
+        '',
+        'DELIVERABLES: ' + val('deliverables'),
+        'WHERE IT WILL RUN: ' + val('usage'),
+        'DEADLINE: ' + val('deadline'),
+        'MUST SAY OR SHOW: ' + val('must'),
+        '',
+        'Kind regards,',
+        val('name')
+      ].join('\n');
+    }
+
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      track('brief_submit', { emotion: emotion.value, deliverables: deliverables.value });
+      window.location.href = mailtoHref('Brief for Mercy: ' + val('brand'), buildBrief());
+      status.textContent = 'If your email app did not open, use "Copy the brief instead" and email ' + SITE.email + '.';
+    });
+
+    document.getElementById('copy-brief').addEventListener('click', function(){
+      if (!form.reportValidity()) return;
+      var text = buildBrief();
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(text).then(function(){ status.textContent = 'Brief copied. Paste it into an email to ' + SITE.email + '.'; });
+      } else { status.textContent = 'Copying is not available here. Use "Open email with my brief".'; }
+      track('brief_copy', { emotion: emotion.value });
+    });
+  })();
+
+  setupTracking();
+</script>
+</body>
+</html>
